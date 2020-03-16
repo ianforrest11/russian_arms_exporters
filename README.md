@@ -9,5 +9,17 @@ Our project aimed to build these 'profiles' for known Russian arms exporters ana
 
 Once grouped, our customized product analyzes the patterns in the text of those trades and compares it with trading patterns of known arms exporters. This is accomplished by looking at the inverse euclidian distances and pairwise distances between the observations in n-dimensional space. In other words, it checks how similar the cluster ratios of each company are to known arms exporters.
 
-The notebooks in this repository will explore our process.
+## The notebooks in this repository will explore our process.
+- *Notebooks*
+- Notebook 0 - PySpark Data Cleaning 
+- Notebook 1 - Python Data Cleaning
+- Notebook 2 - Text Preprocessing & Vectorization
+- Notebook 3 - KMeans Clustering & Exploratory Analysis
+- Notebook 4 - Function & Initial Test
+- Notebook 5 - Function Test on Alternative Dataset
+- Notebook 6 - Function Breakdown
+- Notebook 7 - Initial Test Results
 
+- *Presentation*
+- C4ADS Arms Presentation - Presentation Notes
+- Labs 20 Russian Arms Exporters - PowerPoint Presentation
