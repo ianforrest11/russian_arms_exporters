@@ -11,6 +11,3 @@ Once grouped, our customized product analyzes the patterns in the text of those 
 
 The notebooks in this repository will explore our process.
 
-
-## Process Overview
-
